@@ -1,2 +1,4 @@
 # Academic-Projects
-All of my college projects that is not related to data science such as survey design, its implementation, etc
+All of my college projects related to statistics such as survey design, its implementation, etc. Consist of the projects i (and sometimes with my teams) made doesn't need any code to completed. So, here it is
+# Implementation of survey analysis and design course
+Last semester, with this course, i learned about making a good survey design include its sampling techniques, related questionnaire, and the data processing after it. The requirement to pass this course is to conducted an offline survey as its implementation wathever the topic is. I and my team decided the usage of household electricity per month as our survey topic. We also decided to conducted this survey in one of sub-districts in Central Jakarta. The design, questionnaire, data are arranged in our final report that can be accessed here
