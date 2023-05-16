@@ -1,5 +1,5 @@
 ## Academic-Projects
-All of my college projects related to statistics such as survey design, its implementation, etc. Consist of the projects i (and sometimes with my teams) made doesn't need any code to completed. 
+All of my college projects related to statistics such as survey design, its implementation, etc. Consist of the projects I (and sometimes with my teams) made doesn't need any code to completed. 
 
 ![image](https://github.com/dewikinasih/Academic-Projects/blob/190341550a2e2a9fae79279c3a72340999f0eed9/ppt1.png)
 
